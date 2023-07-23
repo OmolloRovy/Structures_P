@@ -41,4 +41,3 @@ Semantic Structure: It involves the meaning and interpretation of the code. The 
 # Python
 structure analysis
 
-tm
