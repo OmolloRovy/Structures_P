@@ -5,7 +5,7 @@ JavaScript Structure Analysis
 
 
 
-the  lexical, syntactic, contextual, and semantic structures:
+The  lexical, syntactic, contextual, and semantic structures:
 
 javascript
 // Lexical Structure
