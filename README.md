@@ -40,3 +40,4 @@ Contextual Structure: It represents the context in which the code is executed, i
 Semantic Structure: It involves the meaning and interpretation of the code. The program checks if x is positive or negative, multiplies it by 2 using the multiply function, and logs the result to the console.
 # Python
 structure analysis
+
