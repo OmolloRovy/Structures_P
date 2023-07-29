@@ -1,5 +1,4 @@
-var x= 6
-  ;
+var x= 6;
 function multiply (a,b) {
   return a*b;
   }
