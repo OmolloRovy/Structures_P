@@ -1,5 +1,5 @@
 # This is a comment explaining the purpose of the code
-...
+..
 def calculate_sum(a, b):
     # This is a function definition with two parameters: a and b
     result = a + b
