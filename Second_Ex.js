@@ -1,5 +1,5 @@
 // JavaScript Program Structure Example
-
+...
 // Variable Declaration
 var name = "John";
 var age = 25;
