@@ -18,7 +18,7 @@ if (x > 0) { // If statement
 } else {
   console.log("Negative number");
 }
-
+//frame work
 // Contextual Structure
 var result = multiply(x, 2); 
 // Calling the multiply function with arguments
