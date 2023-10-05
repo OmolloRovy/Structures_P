@@ -4,7 +4,7 @@
 JavaScript Structure Analysis
 The  lexical, syntactic, contextual, and semantic structures:
 
-JavaScript nati
+JavaScript na
 
 // Lexical Structure
 var x = 5; // Variable declaration and assignment
