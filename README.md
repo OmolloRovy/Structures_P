@@ -4,7 +4,7 @@
 JavaScript Structure Analysis
 The  lexical, syntactic, contextual, and semantic structures:
 
-#JavaScript 
+# JavaScript 
 
 // Lexical Structure
 var x = 5; // Variable declaration and assignment
